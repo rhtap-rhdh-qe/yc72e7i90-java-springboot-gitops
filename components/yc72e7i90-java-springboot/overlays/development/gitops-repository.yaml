@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yc72e7i90-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yc72e7i90-java-springboot-gitops
